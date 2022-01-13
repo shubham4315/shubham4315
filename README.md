@@ -21,7 +21,7 @@ Welcome to my coding playground!! I am Shubham. Feel free to go around my Work.
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/logo-javascript.svg" alt="Javascript Logo" width="45" height="45"/>](https://developer.mozilla.org/de/docs/Web/JavaScript)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/html-1.svg" alt="HTML5 Logo" width="45" height="45"/>](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/css-3.svg" alt="CSS Logo" width="45" height="45"/>](https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/CSS_basics)
-[<img src="https://github.com/shubham4315/shubham4315/blob/main/src/pngegg.png" alt="C Logo" width="45" height="45"/>]("")
+[<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C Logo" width="45" height="45"/>]("")
 
    
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/nodejs-1.svg" alt="Nodejs Logo" width="45" height="45"/>](https://nodejs.org/en/)
