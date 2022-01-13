@@ -24,7 +24,6 @@ Welcome to my coding playground!! I am Shubham. Feel free to go around my Work.
 [<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C Logo" width="45" height="45"/>]("")
 
    
-[<img src="https://github.com/shubham4315/shubham4315/blob/main/src/nodejs-1.svg" alt="Nodejs Logo" width="45" height="45"/>](https://nodejs.org/en/)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/react-2.svg" alt="React Logo" width="45" height="45"/>](https://reactjs.org/)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/numpy-1.svg" alt="NumPy Logo" width="45" height="45"/>](https://numpy.org/)
 
@@ -33,12 +32,11 @@ Welcome to my coding playground!! I am Shubham. Feel free to go around my Work.
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/linux-tux.svg" alt="Linux Logo" width="45" height="45"/>](https://www.linux.org/)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/postman.svg" alt="Postman Logo" width="45" height="45"/>](https://www.postman.com/)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/MySQL-Logo.wine.svg" alt="MySql Logo" width="45" height="45"/>](https://www.mysql.com/de/)
-[<img src="https://github.com/shubham4315/shubham4315/blob/main/src/gunicorn.svg" alt="Gunicorn Logo" width="45" height="45"/>](https://gunicorn.org/)
 [<img src="https://github.com/shubham4315/shubham4315/blob/main/src/docker-3.svg" alt="Docker Logo" width="45" height="45"/>](https://www.docker.com/)
-[<img src="https://github.com/shubham4315/shubham4315/blob/main/src/nginx-1.svg" alt="Nginx Logo" width="45" height="45"/>](https://www.nginx.com/)
 
 ---
 # <img src="https://github.com/shubham4315/shubham4315/blob/main/src/statistics.png" width="30px"> Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham4315&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4315&hide=javascript,html)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham4315&theme=shades-of-purple&show_icons=true)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4315&layout=compact&langs_count=8)](https://github.com/shubham4315/github-readme-stats)
+
